@@ -54,8 +54,5 @@ export class UncommonPageComponent {
       this.person.name = 'Otro nombre'
     }, 3500);
   })
-
-
-
-
+  
 }
